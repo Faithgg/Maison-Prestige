@@ -1,4 +1,4 @@
------------------------------------------------------- Production GROUPE 4 ------------------------------------------------------------------
+----------------- Production GROUPE 4 ----------------------
 
 **Membres du groupe**
 
@@ -10,7 +10,7 @@
     - Abraham LAWSON
 
 
----------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------
 
 - Lien `Figma` de la Présentation de la soutenance : https://www.figma.com/file/M9gbIb8deU8NdDzrD2kF0C/Restitution-technique?type=design&node-id=9%3A2&mode=design&t=Mnb8coniAz4JBkGp-1
 
@@ -37,7 +37,7 @@
 - Dans notre développement, on a voulu changer un peu de gout avec un fichier JSON envisagé pour gérer nos requetes SQLs, il permet au lecteur du code de voir l'action qu'on émet au lieu de voir une longue requete SQL. Ça facilite la lecture du code et la modification facile d'une requete quand un truc ne marche pas lorsqu'on était en mode maintenance du projet. Une fonction est aussitot implémentée dans le fichier recuperer_Requete.php pour récuperer ces requetes plus facilement.
 
 - On a essayé de gérer le RESPONSIVE au mieux qu'on peut.
----------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------
 
 <img width="1429" alt="Capture d’écran 2023-07-14 à 08 38 16" src="https://github.com/Faithgg/Groupe4-PRODUCTION/assets/121299370/87e63857-f409-4b1a-bbc4-9bebe11e8027">
 
